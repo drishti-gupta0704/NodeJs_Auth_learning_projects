@@ -9,4 +9,10 @@ Only users with appropriate roles can access protected resources.
 
 ---
 
+## 🚀 Features
 
+- User Authentication using JWT
+- Role-based route protection
+- Middleware-based authorization
+- Secure password hashing using bcrypt
+- Clean project structure
